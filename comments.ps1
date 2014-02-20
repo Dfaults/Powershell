@@ -1,4 +1,4 @@
-# comments.ps1
+# Comments.ps1
 # Commenting in PowerShell
 # Scott Bollinger / kfalconspb
 
